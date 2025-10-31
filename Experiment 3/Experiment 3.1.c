@@ -1,4 +1,4 @@
-1.Write a C program to check whether a number is Even or ODD */ 
+/*1.Write a C program to check whether a number is Even or ODD */ 
 #include <stdio.h> 
 int main() { 
  printf("Name -Siya\nSAP ID - 590028348\n Course 
